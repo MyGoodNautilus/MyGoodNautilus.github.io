@@ -1,2 +1,2 @@
-# MyGoodNautilus.github.io
-My portfolio.
+# Benjamin Ecker
+My portfolio, currently a work in progress.
