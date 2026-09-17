@@ -1,8 +1,6 @@
 # Benjamin Ecker
 
-My portfolio, currently a work in progress.
-
-This is standard practice. Progress tends to be, too.
+My portfolio, currently a work in progress. But even progress is a work in progress, so that doesn't matter.
 
 ## Who I Am
 
