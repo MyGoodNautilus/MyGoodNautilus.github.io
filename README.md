@@ -37,3 +37,8 @@ Future work: more training, better throughput, an actual scaling analysis, pendi
 ## Correspondence
 
 GitHub issues are the best way to reach me. Email works too: `benjaminsnautilus@gmail.com`. Other channels may exist eventually.
+
+***
+<s>
+Don't listen to the text below, this page is not open source.
+</s>
